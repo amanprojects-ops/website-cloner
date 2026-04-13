@@ -1,12 +1,12 @@
 {
-    "name": "open-source/website-cloner",
+    "name": "Website Cloner",
     "description": "A tool to clone websites for offline viewing",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Website Cloner",
-            "email": "example@example.com"
+            "name": "amanprojects",
+            "email": "contact@amanprojects.com"
         }
     ],
     "require": {

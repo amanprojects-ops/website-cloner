@@ -42,7 +42,7 @@ website-cloner/
 ## Installation
 
 ```bash
-git clone https://github.com/ToxicBoyQx/website-cloner.git
+git clone https://github.com/amanprojects-ops/website-cloner.git
 cd website-cloner
 composer install
 ```
@@ -75,3 +75,25 @@ You can configure the cloner by editing the `config/config.php` file. Common set
 ## License
 
 MIT
+
+## License
+
+MIT License - see LICENSE file for details
+
+## Author
+
+Aman Projects
+- Email: contact@amanprojects.com
+- GitHub: https://github.com/amanprojects-ops
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Support
+
+For issues and questions, please open an issue on GitHub.
+
+---
+
+Made with ❤️ by Aman Projects
